@@ -1,6 +1,5 @@
 # hash n salt
- Will be used for securing login and registration system
- Fiddle: https://dotnetfiddle.net/yVeOVA
+ Will be used for securing login and registration system. Fiddle: https://dotnetfiddle.net/yVeOVA
 
 ### What does it do?
 * Takes a string.
